@@ -729,6 +729,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     display: flex;
     align-items: center;
     justify-content: center;
+    color: #FFFFFF;
     height: 50px;
     text-transform: capitalize;
     margin-top: 3px;
@@ -768,7 +769,9 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     font-weight: 300;
     margin-top: 6px;
 }
-
+.contact-address {
+    align-items: left;
+}
 .contact-add-info {
     margin: 42px 0 52px;
 }
